@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Tampa-St. Petersburg-Clearwater Metro Area, FL, US
 
-> Free BeamStation sample export with 8 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `176638` |
 | Location | Tampa-St. Petersburg-Clearwater, FL |
 | Category | Restaurants |
-| Full dataset size | 89 records |
-| Free sample size | 8 records (8.99%) |
-| Last export | 2026-04-08T07:21:25.462986+00:00 |
+| Full dataset size | 48 records |
+| Free sample size | 4 records (8.33%) |
+| Last export | 2026-04-15T10:40:00.166156+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-tampa-st-petersburg-clearwater-metro-area-fl-us-sample-176638/releases/download/sample-latest/beamstation_176638_restaurants-us-tampastpetersburgclearwaterfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
